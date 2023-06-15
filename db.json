@@ -1,38 +1,40 @@
-[
-  {
-    "uuid": "d312ba20-fcef-44c9-bf76-b03202998403",
-    "from": "Amoroto",
-    "to": "Ondarru",
-    "hour": "5:00 AM",
-    "day": "2023/07/23",
-    "number": 289,
-    "status": "idle"
-  },
-  {
-    "uuid": "c39b1ea5-f656-4f1c-b077-da86168a695b",
-    "from": "Markina",
-    "to": "Lekeitio",
-    "hour": "2:00 AM",
-    "day": "2023/09/05",
-    "number": 117,
-    "status": "go"
-  },
-  {
-    "uuid": "38ddd317-5137-4abd-91e2-923028a86554",
-    "from": "Gernika",
-    "to": "Elantxobe",
-    "hour": "2:00 AM",
-    "day": "2023/10/25",
-    "number": 118,
-    "status": "return"
-  },
-  {
-    "uuid": "806613ab-7fab-46f1-a8ca-2ed6aab9cbfb",
-    "from": "Mutriku",
-    "to": "Deba",
-    "hour": "5:00 AM",
-    "day": "2023/05/19",
-    "number": 119,
-    "status": "expired"
-  }
-]
+{
+  "tickets": [
+    {
+      "uuid": "d312ba20-fcef-44c9-bf76-b03202998403",
+      "from": "Amoroto",
+      "to": "Ondarru",
+      "hour": "5:00 AM",
+      "day": "2023/07/23",
+      "number": 289,
+      "status": "idle"
+    },
+    {
+      "uuid": "c39b1ea5-f656-4f1c-b077-da86168a695b",
+      "from": "Markina",
+      "to": "Lekeitio",
+      "hour": "2:00 AM",
+      "day": "2023/09/05",
+      "number": 117,
+      "status": "go"
+    },
+    {
+      "uuid": "38ddd317-5137-4abd-91e2-923028a86554",
+      "from": "Gernika",
+      "to": "Elantxobe",
+      "hour": "2:00 AM",
+      "day": "2023/10/25",
+      "number": 118,
+      "status": "return"
+    },
+    {
+      "uuid": "806613ab-7fab-46f1-a8ca-2ed6aab9cbfb",
+      "from": "Mutriku",
+      "to": "Deba",
+      "hour": "5:00 AM",
+      "day": "2023/05/19",
+      "number": 119,
+      "status": "expired"
+    }
+  ]
+}
